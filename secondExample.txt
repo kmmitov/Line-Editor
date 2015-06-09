@@ -1,0 +1,18 @@
+LA
+IN
+hello
+this 
+is
+a
+test
+//
+LA
+MO -3
+LA
+MO -3
+LA
+DE
+LA
+MO 10
+LA
+EX

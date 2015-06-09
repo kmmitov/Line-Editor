@@ -1,0 +1,33 @@
+OP Hi.txt
+LA
+IN
+aaaa aaaa aaaa aaaa aaaa aaaa
+bbbbbbbb bbbbbbbb bbbbbbbb
+//
+LA
+MO -2
+LA
+MO 1
+LA
+IN
+cccc cccc cccc cccc cccc cccc
+ddddd ddddd ddddd ddddd ddddd
+//
+LA
+MO -10
+LA
+LA
+MO 10
+IN
+eeeeeeeeeeeeeeee
+//
+MO -20
+LA
+DE
+LA
+MO 1
+DE
+LA
+MO -10
+LA
+EX
